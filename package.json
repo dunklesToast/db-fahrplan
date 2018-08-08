@@ -1,0 +1,12 @@
+{
+  "name": "db-fahrplan",
+  "version": "1.0.0",
+  "description": "API Wrapper for the Deutsche Bahn Fahrplan API",
+  "main": "index.js",
+  "author": "Tom Sacher",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
